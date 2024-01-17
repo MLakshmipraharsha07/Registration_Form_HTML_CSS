@@ -14,5 +14,5 @@ In the Registration Form webpage I have added the following elements :-<br/>
 - File Uploading
 - Submit button<br/>
 
-To get the look and feel of the webpage you can watch it in the pdf document that is present.<br/>
-***Hope You Liked My Registration From:blush::relaxed:***
+To get the look and feel of the webpage [Click Me](https://mlakshmipraharsha07.github.io/Registration_Form_HTML_CSS/).<br/>
+***Hope You Liked My Registration Form***☺️
